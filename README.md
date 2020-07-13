@@ -1,5 +1,4 @@
 # python-if-else
-This is a solution for the Hackerank problem 
 import math
 import os
 import random
